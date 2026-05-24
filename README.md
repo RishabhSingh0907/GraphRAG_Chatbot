@@ -1,4 +1,4 @@
-## eo4j-backed Chatbot (Course)
+## Neo4j-backed Chatbot (Course)
 
 This repository accompanies the link:https://graphacademy.neo4j.com/courses/llm-chatbot-python[Build an Neo4j-backed Chatbot using Python^] course on link:https://graphacademy.neo4j.com/?ref=github[Neo4j GraphAcademy^].
 
